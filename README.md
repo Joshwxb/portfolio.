@@ -2,7 +2,7 @@
 
 Welcome to **Joshua Portfolio** — the personal portfolio site of Olawoore Joshua. This site is a showcase of my skills, educational background, projects, and passion for web development and innovative technologies.
 
-🌐 **Live Site**: [https://portfolio6t5.netlify.app](https://https://portfolio6t5.netlify.app)
+🌐 **Live Site**: [https://joshwxb.github.io/portfolio./](https://joshwxb.github.io/portfolio./)
 
 ---
 
@@ -69,4 +69,5 @@ To run the project locally:
    You are free to use, modify, and distribute this project with proper attribution.
 
 6. **Copyright**  
+
    © 2025 Olawoore Joshua. All rights reserved.
